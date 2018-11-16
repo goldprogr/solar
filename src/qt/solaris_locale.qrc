@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/solaris_bg.qm</file>
+        <file alias="ca">locale/solaris_ca.qm</file>
+        <file alias="cs">locale/solaris_cs.qm</file>
+        <file alias="da">locale/solaris_da.qm</file>
+        <file alias="de">locale/solaris_de.qm</file>
+        <file alias="en">locale/solaris_en.qm</file>
+        <file alias="en_US">locale/solaris_en_US.qm</file>
+        <file alias="es">locale/solaris_es.qm</file>
+        <file alias="fi">locale/solaris_fi.qm</file>
+        <file alias="fr_FR">locale/solaris_fr_FR.qm</file>
+        <file alias="hr">locale/solaris_hr.qm</file>
+        <file alias="it">locale/solaris_it.qm</file>
+        <file alias="ja">locale/solaris_ja.qm</file>
+        <file alias="ko_KR">locale/solaris_ko_KR.qm</file>
+        <file alias="nl">locale/solaris_nl.qm</file>
+        <file alias="pl">locale/solaris_pl.qm</file>
+        <file alias="pt">locale/solaris_pt.qm</file>
+        <file alias="pt_BR">locale/solaris_pt_BR.qm</file>
+        <file alias="ro_RO">locale/solaris_ro_RO.qm</file>
+        <file alias="ru">locale/solaris_ru.qm</file>
+        <file alias="sk">locale/solaris_sk.qm</file>
+        <file alias="sv">locale/solaris_sv.qm</file>
+        <file alias="tr">locale/solaris_tr.qm</file>
+        <file alias="uk">locale/solaris_uk.qm</file>
+        <file alias="zh_CN">locale/solaris_zh_CN.qm</file>
+        <file alias="zh_TW">locale/solaris_zh_TW.qm</file>
+    </qresource>
+</RCC>
